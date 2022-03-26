@@ -71,7 +71,7 @@ export const ImageGrid: FC = () => {
         alt: "string",
         uploaded: "2021-11-17T06:31:25.203Z",
         isPrivate: true,
-        downloadCount: 2,
+        downloadCount: 200000,
       },
       {
         id: "e45bc50e-814f-4f2a-e6ab-d68a3f457500",
